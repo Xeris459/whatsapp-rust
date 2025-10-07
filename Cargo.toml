@@ -38,7 +38,7 @@ futures-util = { version = "0.3.31", default-features = false, features = ["sink
 
 hex = { version = "0.4", features = ["alloc"], default-features = false }
 http = "1.2"
-libsqlite3-sys = { version = "0.35.0", default-features = false, features = [
+libsqlite3-sys = { version = "0.28.0", default-features = false, features = [
     "bundled",
 ] }
 log = "0.4.27"
